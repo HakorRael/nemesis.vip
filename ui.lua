@@ -1125,7 +1125,8 @@ local themes = {
         ["Object Background"] = Color3.fromRGB(25, 25, 29),
         ["Object Border"] = Color3.fromRGB(35, 35, 39),
         ["Dropdown Option Background"] = Color3.fromRGB(19, 19, 23)
-    }
+    },
+    
     Lime = {
         ["Accent"] = Color3.fromRGB(58, 154, 74),
         ["Window Background"] = Color3.fromRGB(20, 20, 20),
